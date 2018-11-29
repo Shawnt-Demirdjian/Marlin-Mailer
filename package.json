@@ -1,0 +1,28 @@
+{
+	"name": "marlin-mailer",
+	"version": "1.0.0",
+	"description": "A free, open-source Desktop Email Application.",
+	"main": "app.js",
+	"dependencies": {},
+	"devDependencies": {
+		"electron": "^3.0.10"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"email",
+		"node.js",
+		"electron.js"
+	],
+	"author": "Shawnt Demirdjian",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Shawnt-Demirdjian/Marlin-Mailer.git"
+	},
+	"bugs": {
+		"url": "https://github.com/Shawnt-Demirdjian/Marlin-Mailer/issues"
+	},
+	"homepage": "https://github.com/Shawnt-Demirdjian/Marlin-Mailer#readme"
+}
